@@ -708,12 +708,40 @@ footer{
 }
 
 @media screen and (max-width: 550px){
+    .container{
+        margin: 0 25px;
+    }
+
+    .logo img{
+        height: 25px;
+        margin-right: 20px;
+    }
+
     .background{
         height: 500px;
     }
 
     .overlay{
         height: 500px;
+    }
+
+    .login button{
+        padding: 4px 8px;
+        font-size: 16px;
+    }
+
+    .language{
+        margin-right: 15px;
+    }
+
+    .language select{
+        font-size: 16px;
+    }
+
+    .language i{
+        right: 92px;
+        top: 9px;
+        font-size: 12px;
     }
 
     .intro{
