@@ -4,8 +4,8 @@ This project was developed with the aim of improving my front-end skills using H
 
 ## Technologies Used
 
--HTML
--CSS
+- HTML
+- CSS
 - JavaScript
 
 ### Functionalities
