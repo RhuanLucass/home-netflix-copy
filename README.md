@@ -21,7 +21,7 @@ I used JavaScript to implement an accordion effect in the FAQ section. This allo
 
 ## How to use
 
-- Access the page link on github: [Netflix Home](https://rhuanlucass.github.io/home-netflix-copy/){:target="_blank"}
+- Access the page link on github: [Netflix Home](https://rhuanlucass.github.io/home-netflix-copy/){target="_blank"}
 
 or
 
