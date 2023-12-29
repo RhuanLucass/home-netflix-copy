@@ -21,6 +21,10 @@ I used JavaScript to implement an accordion effect in the FAQ section. This allo
 
 ## How to use
 
+Access the page link on github: https://github.com/RhuanLucass/landing-page-devmedia
+
+or
+
 1. Clone this repository.
 2. Open the `index.html` file in your browser to view the page.
 
